@@ -26,6 +26,7 @@
             <class name="com.selenium.course.testng.EditOpportunityView" />
             <class name="com.selenium.course.testng.EditProduct" />
             <class name="com.selenium.course.testng.EditProductView" />
+            <example_for_testing>
         </classes>
     </test>
 </suite>
